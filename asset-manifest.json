@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mishymishee.github.io/csb-zqzv9w/static/css/main.fe62048a.chunk.css",
+    "main.js": "https://mishymishee.github.io/csb-zqzv9w/static/js/main.7103ef75.chunk.js",
+    "main.js.map": "https://mishymishee.github.io/csb-zqzv9w/static/js/main.7103ef75.chunk.js.map",
+    "runtime-main.js": "https://mishymishee.github.io/csb-zqzv9w/static/js/runtime-main.f2440838.js",
+    "runtime-main.js.map": "https://mishymishee.github.io/csb-zqzv9w/static/js/runtime-main.f2440838.js.map",
+    "static/css/2.e8072a2c.chunk.css": "https://mishymishee.github.io/csb-zqzv9w/static/css/2.e8072a2c.chunk.css",
+    "static/js/2.25e146c5.chunk.js": "https://mishymishee.github.io/csb-zqzv9w/static/js/2.25e146c5.chunk.js",
+    "static/js/2.25e146c5.chunk.js.map": "https://mishymishee.github.io/csb-zqzv9w/static/js/2.25e146c5.chunk.js.map",
+    "index.html": "https://mishymishee.github.io/csb-zqzv9w/index.html",
+    "static/css/2.e8072a2c.chunk.css.map": "https://mishymishee.github.io/csb-zqzv9w/static/css/2.e8072a2c.chunk.css.map",
+    "static/css/main.fe62048a.chunk.css.map": "https://mishymishee.github.io/csb-zqzv9w/static/css/main.fe62048a.chunk.css.map",
+    "static/js/2.25e146c5.chunk.js.LICENSE.txt": "https://mishymishee.github.io/csb-zqzv9w/static/js/2.25e146c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2440838.js",
+    "static/css/2.e8072a2c.chunk.css",
+    "static/js/2.25e146c5.chunk.js",
+    "static/css/main.fe62048a.chunk.css",
+    "static/js/main.7103ef75.chunk.js"
+  ]
+}
